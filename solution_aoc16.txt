@@ -1,0 +1,50 @@
+# my fields
+61
+151
+59
+101
+173
+71
+103
+167
+127
+157
+137
+73
+181
+97
+179
+149
+131
+139
+67
+53
+
+departure location:   3
+departure station:    17
+departure platform:   9
+departure track:      1
+departure date:       13
+departure time:       15
+arrival location:     18
+arrival station:      16
+arrival platform:     5
+arrival track:        12
+class:                14
+duration:             4
+price:                8
+route:                7
+row:                  19
+seat:                 11
+train:                0
+type:                 6
+wagon:                2
+zone:                 10
+
+fields à récupérer (index => valeur)
+3 => 101
+17 => 139
+9 => 157
+1 => 151
+13 => 97
+15 => 149
